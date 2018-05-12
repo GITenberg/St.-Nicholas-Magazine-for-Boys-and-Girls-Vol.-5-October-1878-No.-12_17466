@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/402
     wikipedia: http://en.wikipedia.org/wiki/Mary_Mapes_Dodge
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17466#St.-Nicholas-Magazine-for-Boys-and-Girls-Vol.-5-October-1878-No.-12
 gutenberg_bookshelf: St. Nicholas Magazine for Boys and Girls
 gutenberg_issued: '2006-01-05'
 gutenberg_type: Text
